@@ -2,4 +2,4 @@
 *Contenido del Curso Mintic python
 - Ejercicios relizados y apuntes
 - Trabajos y retos resueltos
-- Ayda grafica
+- Ayuda grafica
