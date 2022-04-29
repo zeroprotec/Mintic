@@ -1,4 +1,5 @@
 #Crear un programa que pida una cantidad de segundos y que escriba cuantas horas, minutosy segundos son.
+
 dato_de_usuario = input("Hola, regalame los segundos que quieras convertir ")
 dato_de_usuario = int(dato_de_usuario)
 horas = dato_de_usuario / 3600

@@ -1,3 +1,4 @@
+#Condicionales If, Elif y Else
 num = int (input("Intruduzca un Numero: "))
 if num == 100:
     print("Usted escribio el numero 100")

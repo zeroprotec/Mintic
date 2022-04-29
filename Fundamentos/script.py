@@ -1,5 +1,5 @@
 
-#tipos de datos
+#Tipos de datos
 
 numero1 = 1
 print(numero1)
