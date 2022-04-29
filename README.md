@@ -17,7 +17,7 @@ en su terminal de Bash o PowerShell
  git add . 
  
  ```
- Para hacer un comentario por favor describir que cambios agrego al repositorio.
+ Para hacer un comentario por favor describir que cambios agregó al repositorio.
  ` git commit -m "Mensaje describiendo los cambios realizados" `
  Si quiere hacerlo para un archivo en concreto por favor diríjase a la ruta exacta del archivo
  ``` 
