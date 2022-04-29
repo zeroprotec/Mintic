@@ -9,7 +9,7 @@ en su terminal de Bash o PowerShell
 
 ```
 git clone https://github.com/zeroprotec/Mintic.git
-#Cloning into 'Mintic'...
+//Cloning into 'Mintic'...
 remote: Enumerating objects: 85, done.
 remote: Counting objects: 100% (85/85), done.
 remote: Compressing objects: 100% (68/68), done.
