@@ -1,5 +1,5 @@
 #Solucion problema cuestionario
-#Para saber la respuesta correr el programa en esta direccion : mintic/Estructuras de Control 
+#Para saber la respuesta correcta correr el programa en esta direccion : mintic/Estructuras de Control 
 a = 18
 b = a%5
 if( a == b):
