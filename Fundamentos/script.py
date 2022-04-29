@@ -1,10 +1,6 @@
 
 #tipos de datos
 
-#int o interose refiere a un numero
-from operator import truediv
-
-
 numero1 = 1
 print(numero1)
 print(type(numero1))
