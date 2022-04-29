@@ -14,11 +14,11 @@ cd Mintic
 
 #### Para los que tienen acceso al repositorio y quieren publicar algún avance este es el comando
 ```
- git status
- # Changes to be committed:
-  (use "git restore --staged ..." to unstage)
-        modified:   reto2.py
-        deleted:    ../Fundamentos/script.py
+git status
+# Changes to be committed:
+ (use "git restore --staged ..." to unstage)
+       modified:   reto2.py
+       deleted:    ../Fundamentos/script.py
  git add . 
  
  ```
