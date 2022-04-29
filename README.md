@@ -23,7 +23,11 @@ cd Mintic
  
  ```
  Para hacer un comentario por favor describir que cambios agregó al repositorio.
- ` git commit -m "Mensaje describiendo los cambios realizados" `
+ ```
+ git commit -m "Mensaje describiendo los cambios realizados" 
+ git push
+ 
+ ```
  Si quiere hacerlo para un archivo en concreto por favor diríjase a la ruta exacta del archivo
  ``` 
    cd ../Fundamentos/reto.py
