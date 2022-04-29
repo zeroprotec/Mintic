@@ -1,3 +1,5 @@
+#Estructuras de control condicional "Codigos if, elif y else"
+
 num = int (input("Introduszca un numero: "))
 if num == 100:
     print("usted escribió un numero mayor a 100")
