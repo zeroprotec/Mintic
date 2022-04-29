@@ -9,14 +9,7 @@ en su terminal de Bash o PowerShell
 
 ```
 git clone https://github.com/zeroprotec/Mintic.git
-//Cloning into 'Mintic'...
-remote: Enumerating objects: 85, done.
-remote: Counting objects: 100% (85/85), done.
-remote: Compressing objects: 100% (68/68), done.
-remote: Total 85 (delta 44), reused 44 (delta 17), pack-reused 0
-Receiving objects: 100% (85/85), 153.23 KiB | 175.00 KiB/s, done.
-Resolving deltas: 100% (44/44), done.
-
+cd Mintic
 ```
 
 #### Para los que tienen acceso al repositorio y quieren publicar algún avance este es el comando
