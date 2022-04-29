@@ -6,7 +6,8 @@
 ## Clonar repositorio
 Para clonar el repositorio y poder trabajar de manera local utilice este comando 
 en su terminal de Bash o PowerShell
-` git clone https://github.com/zeroprotec/Mintic.git `
+```git clone https://github.com/zeroprotec/Mintic.git ```
+
 #### Para los que tienen acceso al repositorio y quieren publicar algún avance este es el comando
 ```
  git status
