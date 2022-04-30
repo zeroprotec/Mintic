@@ -1,10 +1,14 @@
-#Solucion problema cuestionario
-#Para saber la respuesta correcta correr el programa en esta direccion : mintic/Estructuras de Control 
-a = 18
-b = a%5
-if( a == b):
-    print("Son iguales")
-elif (a>b):
-    print("el primer número es mayor que el segundo")
-else:
-    print("el segundo número es mayor que el primero")
+#Solucion Reto # 2
+alto = float(input())
+ancho = float(input())
+profundo = float(input())
+volumen = float(alto*ancho*profundo)
+costo = float(volumen*5)
+iva = float()
+print(costo)
+if (alto > 30):
+    costo = (costo + 2000.0)
+if (costo > 10000.0):
+    iva = (costo * 0.19)
+print(volumen)
+print(costo + iva)
