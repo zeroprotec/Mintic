@@ -1,6 +1,7 @@
 #Solucion Reto # 2
 numeropaquetes = int(input())
 costoTotal = 0
+costoFinal = float()
 for numerodepquetes in range(numeropaquetes):
     alto = float(input())
     ancho = float(input())
@@ -16,4 +17,5 @@ for numerodepquetes in range(numeropaquetes):
     costoTotal += costo
     print(volumen)
     print(costo)
+costoFinal =+ costoTotal
 print(costoTotal)
