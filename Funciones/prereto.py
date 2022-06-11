@@ -1,4 +1,4 @@
-'''import json
+import json
 with open("paquetes.json") as informacion:
     empresa = json.load(informacion)
 
@@ -23,9 +23,9 @@ def costoTotal(listapquetes, descuento):
         costo_Total = costo_Total + calcularCosto(alto,ancho,profundo)*(1-descuento/100)
     return costo_Total
 
-print(empresa)
-print(empresa["PAQUETES"])'''
-"""def calcularCosto(alto, ancho, profundo):
+    print(empresa)
+    print(empresa["PAQUETES"])
+def calcularCosto(alto, ancho, profundo):
     volumen = alto*ancho*profundo
     costo = volumen*5
 
@@ -51,4 +51,4 @@ def costoTotal(listaPaquetes,descuento):
 
 x = input()
 print(x)
-print(len(x))"""
+print(len(x))
